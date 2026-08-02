@@ -1,0 +1,23 @@
+{
+  "name": "Abel — Vidéo Booth Jungle",
+  "short_name": "Abel Jungle",
+  "id": "./?theme=abel-jungle-final",
+  "start_url": "./?theme=abel-jungle-final",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#F7EBD8",
+  "theme_color": "#F7EBD8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

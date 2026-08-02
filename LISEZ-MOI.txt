@@ -1,0 +1,41 @@
+VIDEO BOOTH — ABEL — THÈME JUNGLE — VERSION FINALE
+
+CONTENU DU DOSSIER
+- assets/
+- index.html
+- style.css
+- script.js
+- sw.js
+- manifest.webmanifest
+- .nojekyll
+- apple-touch-icon.png
+- icon-192.png
+- icon-512.png
+- LISEZ-MOI.txt
+
+PERSONNALISATION
+- Prénom par défaut : Abel
+- Thème : Jungle premium
+- Palette : beige chaud, vert olive, kaki, terracotta et brun
+- Icônes d’écran d’accueil adaptées au thème Jungle
+
+FONCTIONNALITÉS
+- Ajout de photo depuis l’iPad
+- Prénom modifiable
+- Enregistrement vidéo
+- Aperçu, recommencer et valider
+- Espace privé caché
+- Téléchargement et suppression des vidéos
+- Fonctionnement hors ligne après le premier chargement
+
+ESPACE PRIVÉ
+Appuyez 5 fois rapidement dans le coin inférieur droit.
+
+GITHUB PAGES
+1. Décompressez le ZIP.
+2. Importez tous les fichiers et le dossier assets à la racine du dépôt.
+3. Vérifiez que .nojekyll apparaît bien sur GitHub.
+4. Settings > Pages > Deploy from a branch > main > /(root).
+5. Attendez le déploiement vert.
+6. Ouvrez le site dans Safari.
+7. Supprimez l’ancien raccourci et ajoutez à nouveau le site à l’écran d’accueil.
