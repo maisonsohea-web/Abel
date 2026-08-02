@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <circle cx="120" cy="120" r="108" fill="#F1E4CF" stroke="#C7A778" stroke-width="6"/>
+
+  <!-- Oreilles -->
+  <circle cx="82" cy="78" r="24" fill="#C8782F"/>
+  <circle cx="158" cy="78" r="24" fill="#C8782F"/>
+
+  <!-- Crinière -->
+  <circle cx="120" cy="120" r="74" fill="#D18A3A"/>
+
+  <!-- Visage -->
+  <circle cx="120" cy="126" r="52" fill="#F6D7A7"/>
+
+  <!-- Yeux -->
+  <circle cx="102" cy="116" r="5" fill="#4E321F"/>
+  <circle cx="138" cy="116" r="5" fill="#4E321F"/>
+
+  <!-- Museau -->
+  <ellipse cx="120" cy="145" rx="20" ry="14" fill="#FBE8C9"/>
+  <circle cx="120" cy="140" r="4" fill="#4E321F"/>
+
+  <!-- Bouche -->
+  <path d="M120 144 L120 154" stroke="#4E321F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 154 Q112 162 104 158" stroke="#4E321F" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M120 154 Q128 162 136 158" stroke="#4E321F" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
