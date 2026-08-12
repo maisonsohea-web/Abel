@@ -1,0 +1,16 @@
+VIDEO BOOTH — ABEL — JUNGLE — VERSION FINALE
+
+Accueil :
+- Photo ronde centrée
+- « Laissez un message vidéo pour Abel »
+- Bouton vert « Commencer »
+- Animaux jungle en bas
+- Feuillages et confettis discrets
+- Palette crème, olive et terracotta
+
+Le reste du Video Booth est conservé : espace privé, photo modifiable, enregistrement, aperçu, validation, téléchargement et suppression des vidéos.
+
+GitHub Pages :
+Importez tous les fichiers et le dossier assets à la racine.
+Vérifiez la présence de .nojekyll.
+Settings > Pages > Deploy from a branch > main > /(root).
