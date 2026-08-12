@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8"
+        flood-color="#5b412d" flood-opacity=".14"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+
+    <!-- GIRAFE -->
+    <g transform="translate(60 35)">
+      <rect x="80" y="90" width="50" height="165"
+        rx="22" fill="#d6a35b"/>
+
+      <circle cx="105" cy="75" r="46" fill="#e4b875"/>
+
+      <ellipse cx="92" cy="70" rx="5" ry="6" fill="#4d3522"/>
+      <ellipse cx="118" cy="70" rx="5" ry="6" fill="#4d3522"/>
+
+      <ellipse cx="105" cy="88" rx="19" ry="13" fill="#f1d6ac"/>
+
+      <path d="M92 32V12 M118 32V12"
+        stroke="#8c5d2d"
+        stroke-width="8"
+        stroke-linecap="round"/>
+
+      <circle cx="92" cy="9" r="6" fill="#8c5d2d"/>
+      <circle cx="118" cy="9" r="6" fill="#8c5d2d"/>
+
+      <circle cx="95" cy="125" r="8" fill="#8c5d2d"/>
+      <circle cx="118" cy="155" r="8" fill="#8c5d2d"/>
+      <circle cx="97" cy="192" r="8" fill="#8c5d2d"/>
+    </g>
+
+    <!-- LION -->
+    <g transform="translate(250 105)">
+      <circle cx="90" cy="90" r="72" fill="#a96834"/>
+      <circle cx="90" cy="90" r="52" fill="#e4b46f"/>
+
+      <circle cx="72" cy="84" r="5" fill="#39291e"/>
+      <circle cx="108" cy="84" r="5" fill="#39291e"/>
+
+      <ellipse cx="90" cy="106" rx="22" ry="16" fill="#f1d5ab"/>
+      <circle cx="90" cy="102" r="4" fill="#39291e"/>
+    </g>
+
+    <!-- LÉOPARD -->
+    <g transform="translate(820 115)">
+      <circle cx="88" cy="86" r="58" fill="#d59a54"/>
+      <circle cx="88" cy="92" r="42" fill="#efc88f"/>
+
+      <circle cx="72" cy="84" r="5" fill="#2e241d"/>
+      <circle cx="104" cy="84" r="5" fill="#2e241d"/>
+
+      <ellipse cx="88" cy="103" rx="19" ry="13" fill="#f6ddba"/>
+
+      <g fill="#5a3a26">
+        <circle cx="54" cy="58" r="5"/>
+        <circle cx="72" cy="48" r="4"/>
+        <circle cx="111" cy="54" r="5"/>
+        <circle cx="123" cy="74" r="4"/>
+        <circle cx="58" cy="102" r="4"/>
+        <circle cx="116" cy="112" r="5"/>
+      </g>
+    </g>
+
+    <!-- ÉLÉPHANT -->
+    <g transform="translate(955 80)">
+      <ellipse cx="96" cy="105" rx="72" ry="62" fill="#d7ccb9"/>
+
+      <ellipse cx="55" cy="95" rx="40" ry="48" fill="#e4d9c7"/>
+      <ellipse cx="137" cy="95" rx="40" ry="48" fill="#e4d9c7"/>
+
+      <circle cx="80" cy="98" r="5" fill="#4c443b"/>
+      <circle cx="112" cy="98" r="5" fill="#4c443b"/>
+
+      <path d="M97 112C90 145 104 169 120 160"
+        fill="none"
+        stroke="#d7ccb9"
+        stroke-width="23"
+        stroke-linecap="round"/>
+    </g>
+
+  </g>
+
+  <!-- FEUILLAGE SOUS LES ANIMAUX -->
+  <g fill="#788354" opacity=".9">
+    <path d="M20 320C80 260 115 250 180 260C132 315 87 342 20 320Z"/>
+    <path d="M390 330C445 270 505 255 565 270C525 325 465 345 390 330Z"/>
+    <path d="M720 332C770 270 835 255 895 270C850 325 795 346 720 332Z"/>
+    <path d="M1040 330C1090 270 1148 256 1190 278C1150 325 1100 345 1040 330Z"/>
+  </g>
+</svg>
